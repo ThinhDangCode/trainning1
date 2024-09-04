@@ -1,0 +1,18 @@
+.list{
+    text-decoration:underline;
+    color:blue
+}
+.navbar{
+    display: flex;
+}
+.navbar1{
+    margin-top: 10%;
+}.intro{
+    margin-left: 50%;
+}
+.imgbody1{
+    width: 30%
+}
+.navbarbody1{
+    width: 48%;
+}
