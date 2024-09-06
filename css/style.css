@@ -1,18 +1,93 @@
+.logo{
+    margin-left: 16%;
+}
 .list{
+    margin-left: 16%;
     text-decoration:underline;
     color:blue
+    
+}
+.navbar0{
+    display: flex;
+}
+.intro{
+    margin-left: 65%;
+}
+.navbar1{
+    margin-left: 10%;
+    padding-top: 7%;
+}
+.navbarbody1{
+    padding-bottom: 100%;
+    margin-left: 15%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-size: 125%;
+}   
+.imgbody1{
+    margin-right: 13%;
+}
+.navbar2{
+    margin-top: -30%;
+    color:yellowgreen;
+}
+.strikethrough {
+    text-decoration: line-through;
+    color:darkgrey; /* Màu của gạch ngang */
+    font-weight: bold;
 }
 .navbar{
     display: flex;
+    margin-top: -26%;
+  }
+.money{
+    color: red;
 }
-.navbar1{
-    margin-top: 10%;
-}.intro{
-    margin-left: 50%;
+.buy{
+    color: white;
+    text-align: center;
+    border: solid;
+    border-radius: 30px;
+    background-color: orange;
+    width: 4%;
+    padding: 1%;
 }
-.imgbody1{
-    width: 30%
+.navbar21{
+    color:yellowgreen;
 }
-.navbarbody1{
-    width: 48%;
-}
+table{
+    height: 500px;
+    margin-right: 100px;
+    width: 500px;
+    border-collapse: collapse;
+  }
+  table .bang{
+    background-color: #2EC5C0;
+    color : white;
+  }
+  th, td {
+    border: 1px solid black; 
+    padding: 8px;
+    
+  }
+  .navbar02{
+    margin-left: 31.5%;
+    margin-top: -5.5%;
+  }
+  .imgM{
+    display: flex;
+  }
+  .navbar2{
+    text-align: center;
+  }
+  .navbar01{
+    margin-top: 5.5%;
+    margin-left: 16%;
+  }
+  .img2{
+    width: %;
+  }
+  .img211{
+    margin-left: 56%;
+    width: %;
+  }
+  
